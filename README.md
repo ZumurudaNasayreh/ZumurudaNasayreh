@@ -14,7 +14,7 @@ I'm a CS student
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+HTML, CSS ,Python,OOP
 
 
 <!--
