@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+
+# Hi, I'm zumuruda! 👋
+
+
+## 🚀 About Me
+I'm a CS student
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently study on university
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
 <!--
 **ZumurudaNasayreh/ZumurudaNasayreh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
