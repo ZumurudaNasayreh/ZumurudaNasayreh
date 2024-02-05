@@ -5,13 +5,8 @@
 I'm a CS student
 
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently study on university
-
-
-
 ## 🛠 Skills
-HTML, CSS ,Python,OOP
+HTML, CSS ,Python,OOP,Problem Solving
 
 
 <!--
