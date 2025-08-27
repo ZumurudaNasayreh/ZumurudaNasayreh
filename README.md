@@ -6,7 +6,7 @@ I'm a CS student
 
 
 ## 🛠 Skills
-HTML, CSS ,Python,OOP,Problem Solving
+HTML, CSS ,JS,PHP,Python,OOP,Problem Solving
 
 
 <!--
