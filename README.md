@@ -1,14 +1,14 @@
 # Hi 👋, I'm Zumuruda Nasayreh
 
-### Aspiring Backend Developer | Computer Science Graduate
+### Aspiring Backend Developer | Fresh Computer Science Graduate
 
-- 🔭 I'm currently working on **Enhancing my technical skills through ESTARTA Incubator program.**
+- 🔭 I'm currently training at **Estarta Incubator Program.**
 
-- 🌱 I'm currently learning **Spring Boot , and backend fundamentals**
+- 🌱I'm currently learning **Java Spring Framework, Spring Boot, and Spring AI (Gen AI) via Telusko.**
 
 - 👯 I'm looking to collaborate on **Backend development and open-source Java projects**
 
-- 🤝 I'm looking for help with **Mastering Spring Boot and learning advanced database management**
+- 🤝💼 I'm looking for a **Junior Backend Developer role or Internship opportunities.**
 
 - 📫 How to reach me **zumuruda03nasayreh@gmail.com**
 
